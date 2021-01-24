@@ -21,3 +21,5 @@ Hacer algún análisis intermedio:
 5. Latent Dirichlet Allocation
 
 etc.
+
+> Nota: Se utilizo Atom + Juno para la creación de este código.

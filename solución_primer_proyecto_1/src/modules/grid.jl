@@ -15,7 +15,7 @@ export Grid, makeGrid
 	Crear una matriz de rangos [rango_abcisas,rango_ordenadas]
 	"""
 	function makeGrid(g::Grid)
-
+		CreakingMatrix = [g.abcisas, g.ordenadas]
 	end
 
 end
